@@ -1,0 +1,15 @@
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\bin\Debug\net8.0\Bai11.exe
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\bin\Debug\net8.0\Bai11.deps.json
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\bin\Debug\net8.0\Bai11.runtimeconfig.json
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\bin\Debug\net8.0\Bai11.dll
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\bin\Debug\net8.0\Bai11.pdb
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\obj\Debug\net8.0\Bai11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\obj\Debug\net8.0\Bai11.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\obj\Debug\net8.0\Bai11.AssemblyInfo.cs
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\obj\Debug\net8.0\Bai11.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\obj\Debug\net8.0\Bai11.sourcelink.json
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\obj\Debug\net8.0\Bai11.dll
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\obj\Debug\net8.0\refint\Bai11.dll
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\obj\Debug\net8.0\Bai11.pdb
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\obj\Debug\net8.0\Bai11.genruntimeconfig.cache
+C:\Users\nguye\Documents\C#Practices-datatype\Bai11\Bai11\obj\Debug\net8.0\ref\Bai11.dll
